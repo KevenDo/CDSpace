@@ -1,0 +1,27 @@
+2016-03-09 16:42:12 - [ DEBUG ] [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]   selected treeItem file path is ./project/TestProject
+2016-03-09 16:42:13 - [ DEBUG ] [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]   selected treeItem file path is ./project/网关
+2016-03-09 19:17:44  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊/原始API
+2016-03-09 19:17:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊/原始API
+2016-03-09 19:17:49  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊/原始API
+2016-03-09 19:17:51  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊
+2016-03-09 19:17:52  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject
+2016-03-09 19:17:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关/防作弊
+2016-03-09 19:17:56  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关/防作弊/原始API
+2016-03-09 20:03:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关/防作弊
+2016-03-09 20:03:12  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject
+2016-03-09 20:03:18  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊
+2016-03-09 20:03:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊/原始API
+2016-03-09 20:03:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:03:26  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊/原始API
+2016-03-09 20:03:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊
+2016-03-09 20:03:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊
+2016-03-09 20:03:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject/防作弊
+2016-03-09 20:04:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/TestProject
+2016-03-09 20:04:36  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关
+2016-03-09 20:04:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关/防作弊
+2016-03-09 20:04:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView$1.handle(FileManagerView.java:87) ]  selected treeItem file path is ./project/网关/防作弊

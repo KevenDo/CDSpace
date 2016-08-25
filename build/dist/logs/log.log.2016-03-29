@@ -1,0 +1,275 @@
+2016-03-29 17:35:53  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:35:53  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:35:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/New Project/New HttpClient.client
+2016-03-29 17:35:55  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:35:55  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:35:56  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/New Project/New HttpServer.server
+2016-03-29 17:35:56  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:35:56  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:35:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/New Project/New HttpClient.client
+2016-03-29 17:35:59  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:36:30  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:36:30  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:36:31  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/New Project
+2016-03-29 17:36:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/New Project/New HttpClient.client
+2016-03-29 17:36:32  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:36:51  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:36:51  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:36:53  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:36:53  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:36:53  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:36:56  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:36:56  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:36:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:36:58  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:36:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:36:59  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test14545.server
+2016-03-29 17:37:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:37:01  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:37:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:37:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:22  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:22  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:23  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:37:23  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:37:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:25  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:29  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:37:29  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:30  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:37:30  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:37:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:37:32  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:37:33  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:37:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:37:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:37:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:40  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:40  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:43  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:37:43  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:37:43  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:44  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:37:44  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:37:45  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:46  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:37:46  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:46  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:37:46  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:48  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test14545.server
+2016-03-29 17:37:48  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:48  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:37:48  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:50  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:37:50  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:50  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:37:50  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:37:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:37:58  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:07  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:07  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:09  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:38:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:38:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:14  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$deleteItem$15(?:?) ]  Delete file and file path is./project/TestProject/New HttpClient.client
+2016-03-29 17:38:14  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:38:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:14  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:38:15  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:38:19  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:21  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:38:22  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:38:23  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:24  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:38:24  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:25  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:38:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:25  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:25  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:26  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:38:27  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:38:27  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:38:28  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:38:28  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAddCookies.process(RequestAddCookies.java:122) ]  CookieSpec selected: default
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAuthCache.process(RequestAuthCache.java:76) ]  Auth cache not set in the context
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection(PoolingHttpClientConnectionManager.java:249) ]  Connection request: [route: {s}->https://crawlerapi.u51.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection(PoolingHttpClientConnectionManager.java:282) ]  Connection leased: [id: 0][route: {s}->https://crawlerapi.u51.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:234) ]  Opening connection {s}->https://crawlerapi.u51.com:443
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:131) ]  Connecting to crawlerapi.u51.com/183.129.178.141:443
+2016-03-29 17:38:34  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:335) ]  Connecting socket to crawlerapi.u51.com/183.129.178.141:443 with timeout 0
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:388) ]  Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:389) ]  Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:393) ]  Starting handshake
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:423) ]  Secure session established
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:424) ]   negotiated protocol: TLSv1.2
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:425) ]   negotiated cipher suite: TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:433) ]   peer principal: CN=*.u51.com, OU=运维部, O=杭州恩牛网络技术有限公司, L=hangzhou, ST=zhejiang, C=CN
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:442) ]   peer alternative names: [*.u51.com, u51.com]
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:446) ]   issuer principal: CN=Symantec Class 3 Secure Server CA - G4, OU=Symantec Trust Network, O=Symantec Corporation, C=US
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:138) ]  Connection established 192.168.20.117:54842<->183.129.178.141:443
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:255) ]  Executing request GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:260) ]  Target auth state: UNCHALLENGED
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:266) ]  Proxy auth state: UNCHALLENGED
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:135) ]  http-outgoing-0 >> GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> 1: 2
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Host: crawlerapi.u51.com
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Connection: Keep-Alive
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_73)
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "1: 2[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Host: crawlerapi.u51.com[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_73)[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "HTTP/1.1 401 Unauthorized[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Server: nginx[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Date: Tue, 29 Mar 2016 09:38:34 GMT[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Content-Length: 142[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Keep-Alive: timeout=5[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "X-Tracking-ID: 48a26751-0ca2-4c95-93fc-21989996e549[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "[\r][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "{[\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "  "trackingId" : "48a26751-0ca2-4c95-93fc-21989996e549",[\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "  "errors" : [ {[\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "    "code" : 401,[\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "    "message" : "[0xe8][0xaf][0xb7][0xe6][0xb1][0x82][0xe6][0x9c][0xaa][0xe7][0xbb][0x8f][0xe8][0xbf][0x87][0xe8][0xae][0xa4][0xe8][0xaf][0x81]."[\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "  } ][\n]"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:86) ]  http-outgoing-0 << "}"
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:124) ]  http-outgoing-0 << HTTP/1.1 401 Unauthorized
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Server: nginx
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Date: Tue, 29 Mar 2016 09:38:34 GMT
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Content-Type: application/json
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Content-Length: 142
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Connection: keep-alive
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Keep-Alive: timeout=5
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << X-Tracking-ID: 48a26751-0ca2-4c95-93fc-21989996e549
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:284) ]  Connection can be kept alive for 5000 MILLISECONDS
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.isAuthenticationRequested(HttpAuthenticator.java:77) ]  Authentication required
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.handleAuthChallenge(HttpAuthenticator.java:107) ]  crawlerapi.u51.com:443 requested authentication
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.handleAuthChallenge(HttpAuthenticator.java:111) ]  Response contains no authentication challenges
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:314) ]  Connection [id: 0][route: {s}->https://crawlerapi.u51.com:443] can be kept alive for 5.0 seconds
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:320) ]  Connection released: [id: 0][route: {s}->https://crawlerapi.u51.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:388) ]  Connection manager is shutting down
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.close(LoggingManagedHttpClientConnection.java:81) ]  http-outgoing-0: Close connection
+2016-03-29 17:38:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:394) ]  Connection manager shut down
+2016-03-29 17:38:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:38:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is2
+2016-03-29 17:38:37  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView$1.handle(?:?) ]  tab's size is1
+2016-03-29 17:38:37  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView$1.handle(?:?) ]  arraylist tab's size is1
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAddCookies.process(RequestAddCookies.java:122) ]  CookieSpec selected: default
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAuthCache.process(RequestAuthCache.java:76) ]  Auth cache not set in the context
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection(PoolingHttpClientConnectionManager.java:249) ]  Connection request: [route: {s}->https://crawlerapi.u51.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection(PoolingHttpClientConnectionManager.java:282) ]  Connection leased: [id: 1][route: {s}->https://crawlerapi.u51.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:234) ]  Opening connection {s}->https://crawlerapi.u51.com:443
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:131) ]  Connecting to crawlerapi.u51.com/183.129.178.141:443
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:335) ]  Connecting socket to crawlerapi.u51.com/183.129.178.141:443 with timeout 0
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:388) ]  Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:389) ]  Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:393) ]  Starting handshake
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:423) ]  Secure session established
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:424) ]   negotiated protocol: TLSv1.2
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:425) ]   negotiated cipher suite: TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:433) ]   peer principal: CN=*.u51.com, OU=运维部, O=杭州恩牛网络技术有限公司, L=hangzhou, ST=zhejiang, C=CN
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:442) ]   peer alternative names: [*.u51.com, u51.com]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:446) ]   issuer principal: CN=Symantec Class 3 Secure Server CA - G4, OU=Symantec Trust Network, O=Symantec Corporation, C=US
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:138) ]  Connection established 192.168.20.117:54843<->183.129.178.141:443
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:255) ]  Executing request GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:260) ]  Target auth state: UNCHALLENGED
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:266) ]  Proxy auth state: UNCHALLENGED
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:135) ]  http-outgoing-1 >> GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-1 >> 1: 2
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-1 >> Host: crawlerapi.u51.com
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-1 >> Connection: Keep-Alive
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_73)
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "GET /crawler/api/v2/manager/supported/bank?d=1458291312074 HTTP/1.1[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "1: 2[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "Host: crawlerapi.u51.com[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_73)[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 >> "[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "HTTP/1.1 401 Unauthorized[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Server: nginx[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Date: Tue, 29 Mar 2016 09:38:38 GMT[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Content-Type: application/json[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Content-Length: 142[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "Keep-Alive: timeout=5[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "X-Tracking-ID: 1ec7f769-c2ee-43ea-be50-b1345db091ff[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "[\r][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "{[\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "  "trackingId" : "1ec7f769-c2ee-43ea-be50-b1345db091ff",[\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "  "errors" : [ {[\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "    "code" : 401,[\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "    "message" : "[0xe8][0xaf][0xb7][0xe6][0xb1][0x82][0xe6][0x9c][0xaa][0xe7][0xbb][0x8f][0xe8][0xbf][0x87][0xe8][0xae][0xa4][0xe8][0xaf][0x81]."[\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-1 << "  } ][\n]"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:86) ]  http-outgoing-1 << "}"
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:124) ]  http-outgoing-1 << HTTP/1.1 401 Unauthorized
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Server: nginx
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Date: Tue, 29 Mar 2016 09:38:38 GMT
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Content-Type: application/json
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Content-Length: 142
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Connection: keep-alive
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << Keep-Alive: timeout=5
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-1 << X-Tracking-ID: 1ec7f769-c2ee-43ea-be50-b1345db091ff
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:284) ]  Connection can be kept alive for 5000 MILLISECONDS
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.isAuthenticationRequested(HttpAuthenticator.java:77) ]  Authentication required
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.handleAuthChallenge(HttpAuthenticator.java:107) ]  crawlerapi.u51.com:443 requested authentication
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.auth.HttpAuthenticator.handleAuthChallenge(HttpAuthenticator.java:111) ]  Response contains no authentication challenges
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:314) ]  Connection [id: 1][route: {s}->https://crawlerapi.u51.com:443] can be kept alive for 5.0 seconds
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:320) ]  Connection released: [id: 1][route: {s}->https://crawlerapi.u51.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:388) ]  Connection manager is shutting down
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.close(LoggingManagedHttpClientConnection.java:81) ]  http-outgoing-1: Close connection
+2016-03-29 17:38:38  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:394) ]  Connection manager shut down
+2016-03-29 17:38:40  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:42:48  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:42:48  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:42:50  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:42:51  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:42:52  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:42:53  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:42:53  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:13  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:44:13  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:44:14  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(?:?) ]  set tree name ./project/TestProject
+2016-03-29 17:44:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:44:15  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:18  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:44:18  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test14545.server
+2016-03-29 17:44:19  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:44:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:44:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1
+2016-03-29 17:44:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(?:?) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:44:21  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(?:?) ]  tab's size is1

@@ -1,0 +1,180 @@
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAddCookies.process(RequestAddCookies.java:122) ]  CookieSpec selected: default
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAuthCache.process(RequestAuthCache.java:76) ]  Auth cache not set in the context
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection(PoolingHttpClientConnectionManager.java:249) ]  Connection request: [route: {}->http://localhost:9090][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection(PoolingHttpClientConnectionManager.java:282) ]  Connection leased: [id: 0][route: {}->http://localhost:9090][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:234) ]  Opening connection {}->http://localhost:9090
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:131) ]  Connecting to localhost/127.0.0.1:9090
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:138) ]  Connection established 127.0.0.1:56368<->127.0.0.1:9090
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:255) ]  Executing request GET /test HTTP/1.1
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:260) ]  Target auth state: UNCHALLENGED
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:266) ]  Proxy auth state: UNCHALLENGED
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:135) ]  http-outgoing-0 >> GET /test HTTP/1.1
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Host: localhost:9090
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Connection: Keep-Alive
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_40)
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "GET /test HTTP/1.1[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Host: localhost:9090[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_40)[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Date: Wed, 16 Mar 2016 03:18:02 GMT[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Transfer-encoding: chunked[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "1: 1[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:124) ]  http-outgoing-0 << HTTP/1.1 200 OK
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Date: Wed, 16 Mar 2016 03:18:02 GMT
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Transfer-encoding: chunked
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << 1: 1
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:284) ]  Connection can be kept alive indefinitely
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "14[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "test respose 1111111[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "0[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "[\r][\n]"
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:314) ]  Connection [id: 0][route: {}->http://localhost:9090] can be kept alive indefinitely
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:320) ]  Connection released: [id: 0][route: {}->http://localhost:9090][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:388) ]  Connection manager is shutting down
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.close(LoggingManagedHttpClientConnection.java:81) ]  http-outgoing-0: Close connection
+2016-03-16 11:18:02  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:394) ]  Connection manager shut down
+2016-03-16 11:20:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:20:16  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:22:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:22:37  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:23:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:23:54  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:25:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:25:03  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:25:50  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:25:50  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:26:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:26:17  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:31:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 11:31:59  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:32:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 11:32:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:32:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:32:01  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:32:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:32:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:32:53  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:32:53  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:33:13  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:33:13  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:36:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:36:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:37:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:37:39  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:41:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:41:23  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:42:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:42:21  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 11:42:22  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:42:23  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:24  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:42:24  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:42:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:42:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:42:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:43:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:43:58  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:44:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:44:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:44:51  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:44:51  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:45:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test14545.server
+2016-03-16 11:45:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:45:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:45:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:45:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:45:03  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:47:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:04  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:04  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:05  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:05  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:07  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:07  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:47:12  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:12  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:47:13  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test14545.server
+2016-03-16 11:47:13  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:47:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:15  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:47:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:47:15  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:47:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is3
+2016-03-16 11:47:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test14545.server
+2016-03-16 11:47:21  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is4
+2016-03-16 11:47:24  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is3
+2016-03-16 11:47:24  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is3
+2016-03-16 11:47:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is2
+2016-03-16 11:47:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is2
+2016-03-16 11:47:26  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is1
+2016-03-16 11:47:26  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is1
+2016-03-16 11:47:29  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is0
+2016-03-16 11:47:29  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is0
+2016-03-16 11:47:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:47:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is0
+2016-03-16 11:47:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is0
+2016-03-16 11:47:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:47:58  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:48:07  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is1
+2016-03-16 11:48:07  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is1
+2016-03-16 11:48:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is0
+2016-03-16 11:48:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is0
+2016-03-16 11:48:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test14545.server
+2016-03-16 11:48:17  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 11:48:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is1
+2016-03-16 11:48:20  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is1
+2016-03-16 11:48:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 11:48:22  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 11:48:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:48:23  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is3
+2016-03-16 11:48:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is2
+2016-03-16 11:48:25  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is2
+2016-03-16 11:48:27  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:138) ]  tab's size is1
+2016-03-16 11:48:27  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView$1.handle(BorderCenterTabPaneView.java:139) ]  arraylist tab's size is1
+2016-03-16 11:48:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 11:48:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is2
+2016-03-16 14:47:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 14:47:16  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 14:47:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 14:47:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 14:47:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 14:47:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 14:49:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 14:49:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 14:50:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 14:50:16  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 14:50:27  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 14:50:27  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:00:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 15:00:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:00:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 15:00:32  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:00:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 15:00:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test111111.server
+2016-03-16 15:00:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:00:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 15:00:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 15:00:54  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:01:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 15:01:22  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:01:43  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 15:01:43  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:01:43  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:93) ]  selected treeItem file path is ./project/网关副本1
+2016-03-16 15:01:43  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1
+2016-03-16 15:01:44  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.setContent(BorderCenterTabPaneView.java:72) ]  selected treeItem file path is ./project/网关副本1/test1.client
+2016-03-16 15:01:44  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterTabPaneView.loadTab(BorderCenterTabPaneView.java:66) ]  tab's size is1

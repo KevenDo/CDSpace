@@ -1,0 +1,206 @@
+2016-03-11 15:54:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 15:56:41  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 15:56:42  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 15:56:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAddCookies.process(RequestAddCookies.java:122) ]  CookieSpec selected: default
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.client.protocol.RequestAuthCache.process(RequestAuthCache.java:76) ]  Auth cache not set in the context
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection(PoolingHttpClientConnectionManager.java:249) ]  Connection request: [route: {}->http://localhost:9090][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection(PoolingHttpClientConnectionManager.java:282) ]  Connection leased: [id: 0][route: {}->http://localhost:9090][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:234) ]  Opening connection {}->http://localhost:9090
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:131) ]  Connecting to localhost/127.0.0.1:9090
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:138) ]  Connection established 127.0.0.1:52678<->127.0.0.1:9090
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:255) ]  Executing request GET /test HTTP/1.1
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:266) ]  Proxy auth state: UNCHALLENGED
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:135) ]  http-outgoing-0 >> GET /test HTTP/1.1
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Authorization: encrypt 7zYyPCmZ/61IcLFhH/bSpdTib8qek5pOJ4vrij9D5exjBrdkU7H21g==
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> userId: 7166048
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Host: localhost:9090
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Connection: Keep-Alive
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_40)
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onRequestSubmitted(LoggingManagedHttpClientConnection.java:138) ]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "GET /test HTTP/1.1[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Authorization: encrypt 7zYyPCmZ/61IcLFhH/bSpdTib8qek5pOJ4vrij9D5exjBrdkU7H21g==[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "userId: 7166048[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Host: localhost:9090[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_40)[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 >> "[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Date: Fri, 11 Mar 2016 07:57:35 GMT[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Transfer-encoding: chunked[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "Headername1: headerVaule1[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:124) ]  http-outgoing-0 << HTTP/1.1 200 OK
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Date: Fri, 11 Mar 2016 07:57:35 GMT
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Transfer-encoding: chunked
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.onResponseReceived(LoggingManagedHttpClientConnection.java:127) ]  http-outgoing-0 << Headername1: headerVaule1
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:284) ]  Connection can be kept alive indefinitely
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "17[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "response111111111111111[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "0[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.Wire.wire(Wire.java:72) ]  http-outgoing-0 << "[\r][\n]"
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:314) ]  Connection [id: 0][route: {}->http://localhost:9090] can be kept alive indefinitely
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection(PoolingHttpClientConnectionManager.java:320) ]  Connection released: [id: 0][route: {}->http://localhost:9090][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:388) ]  Connection manager is shutting down
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.LoggingManagedHttpClientConnection.close(LoggingManagedHttpClientConnection.java:81) ]  http-outgoing-0: Close connection
+2016-03-11 15:57:35  [ DEBUG ]  [ method:org.apache.http.impl.conn.PoolingHttpClientConnectionManager.shutdown(PoolingHttpClientConnectionManager.java:394) ]  Connection manager shut down
+2016-03-11 16:13:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:13:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:15:43  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$12(FMContextMenuController.java:296) ]  Delete file and file path is./project/网关副本/防作弊/test.server
+2016-03-11 16:15:49  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$12(FMContextMenuController.java:296) ]  Delete file and file path is./project/网关副本/防作弊/test1.server
+2016-03-11 16:19:13  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:46:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:46:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:46:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:46:47  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:303) ]  Delete file and file path is./project/网关副本/New HttpClient.client
+2016-03-11 16:46:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:47:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:47:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:47:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:47:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:47:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:47:42  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:47:42  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:47:44  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:48:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:48:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:48:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:48:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:49:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/New Directory
+2016-03-11 16:49:37  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:303) ]  Delete file and file path is./project/网关副本/防作弊/New Directory
+2016-03-11 16:49:40  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:49:42  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:49:43  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:49:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:50:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:140) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:52  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:141) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:141) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:56  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:141) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:50:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:51:36  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/mobile.client
+2016-03-11 16:51:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:51:52  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/statisticainfo.client
+2016-03-11 16:51:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:141) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:51:56  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:52:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:52:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/mobile.client
+2016-03-11 16:53:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/lastbillinfo.client
+2016-03-11 16:53:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/emailstatisticainfo.client
+2016-03-11 16:53:10  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/devicestatisticainfo.client
+2016-03-11 16:53:10  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 16:53:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:53:18  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:35  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:303) ]  Delete file and file path is./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:53:41  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:303) ]  Delete file and file path is./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:41  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/mobile.client
+2016-03-11 16:53:48  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:53:49  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:53:51  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:53:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:53:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:53:57  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient.client
+2016-03-11 16:54:08  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:54:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:54:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/mobile.client
+2016-03-11 16:55:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:55:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:55:24  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient40864.client
+2016-03-11 16:55:29  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:55:29  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:55:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient56928.client
+2016-03-11 16:55:36  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient56928.client
+2016-03-11 16:55:39  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:304) ]  Delete file and file path is./project/网关副本/防作弊/New HttpClient56928.client
+2016-03-11 16:55:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient40864.client
+2016-03-11 16:55:40  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/New HttpClient40864.client
+2016-03-11 16:55:42  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$13(FMContextMenuController.java:304) ]  Delete file and file path is./project/网关副本/防作弊/New HttpClient40864.client
+2016-03-11 16:55:42  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:55:44  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:55:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 16:57:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:57:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:57:04  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:57:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:57:12  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 16:57:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer23173.server
+2016-03-11 16:57:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 16:57:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:57:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer23173.server
+2016-03-11 16:57:36  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:57:36  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 16:57:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 16:57:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 16:57:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:57:40  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer23173.server
+2016-03-11 16:59:12  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer23173.server
+2016-03-11 16:59:14  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$14(FMContextMenuController.java:337) ]  Delete file and file path is./project/网关副本/New HttpServer23173.server
+2016-03-11 16:59:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:59:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New HttpServer.server
+2016-03-11 16:59:19  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$14(FMContextMenuController.java:337) ]  Delete file and file path is./project/网关副本/New HttpServer.server
+2016-03-11 16:59:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:59:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:59:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 16:59:24  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 16:59:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 16:59:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 16:59:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:00:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:00:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:11:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:11:26  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:12:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 17:12:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 17:12:45  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 17:14:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test2.server
+2016-03-11 17:14:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test2.server
+2016-03-11 17:14:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test2.server
+2016-03-11 17:20:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:20:07  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:21:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:21:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:21:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:21:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 17:22:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊/原始API
+2016-03-11 17:22:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:22:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:22:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:22:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 17:22:20  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 17:22:21  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:22:22  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 17:22:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 19:26:27  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 19:26:29  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:26:48  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:26:49  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:26:50  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 19:29:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/防作弊
+2016-03-11 19:29:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:29:04  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 19:29:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:29:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 19:29:23  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:29:25  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test1.server
+2016-03-11 19:33:54  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 19:33:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 19:33:58  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/New Directory
+2016-03-11 19:33:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/test.server
+2016-03-11 19:34:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/New Directory
+2016-03-11 19:34:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/New Directory
+2016-03-11 19:34:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New Directory/test.server
+2016-03-11 19:34:05  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/防作弊/cardstatisticainfo.client
+2016-03-11 19:34:06  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本/New Directory
+2016-03-11 19:34:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 19:34:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:143) ]  selected treeItem file path is ./project/网关副本
+2016-03-11 19:34:12  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New Directory49546/test.server
+2016-03-11 19:34:13  [ DEBUG ]  [ method:com.u51.CDSpace.view.FileManagerView.setCenterBorderAfterSelectTreeItem(FileManagerView.java:118) ]  selected treeItem file path is ./project/网关副本/New Directory49546/cardstatisticainfo.client

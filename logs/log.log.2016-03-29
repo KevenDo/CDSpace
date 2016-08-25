@@ -1,0 +1,163 @@
+2016-03-29 16:57:28  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 16:57:28  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 16:57:30  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 16:57:30  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 16:57:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 16:57:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 16:57:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 16:57:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 16:57:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:13:57  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:13:57  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:13:59  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:14:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:14:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:29:59  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:29:59  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:30:01  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:30:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:30:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:30:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:30:19  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:24  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:34:24  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:34:26  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:34:27  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:34:27  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:34:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:34:32  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:34:33  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:34:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:34:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:34:35  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:34:35  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:35:26  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:35:26  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:35:27  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:35:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:35:28  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:09  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:36:09  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:36:11  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:36:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:36:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:36:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:15  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:36:15  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:36:16  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:16  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:36:16  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:36:17  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:36:18  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:36:18  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:38:53  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:38:53  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:38:54  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:38:55  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:38:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:38:55  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:38:55  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:38:56  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:38:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:38:59  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:38:59  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:38:59  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:39:00  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:39:00  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:39:01  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test14545.server
+2016-03-29 17:39:01  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:39:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:39:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:39:02  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:39:02  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:39:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:39:03  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:41:59  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:41:59  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:02  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:03  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:42:03  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:09  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:42:09  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:11  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:42:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:11  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:11  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:42:11  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:14  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:42:14  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:14  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:17  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:42:17  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:19  [ INFO ]  [ method:com.u51.CDSpace.controller.FMContextMenuController.lambda$15(FMContextMenuController.java:414) ]  Delete file and file path is./project/TestProject/New HttpClient.client
+2016-03-29 17:42:19  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:42:19  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:19  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:24  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:24  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:25  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:26  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:42:26  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:28  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:42:28  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:28  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:28  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:42:28  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:42:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:34  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:42:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:42:37  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611274725.client
+2016-03-29 17:42:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:42:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test16611223153.client
+2016-03-29 17:42:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:29  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:29  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:31  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:31  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:43:31  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:32  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:32  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:43:32  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:33  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:97) ]  selected treeItem file path is ./project/TestProject
+2016-03-29 17:43:33  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:33  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:33  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:43:33  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:34  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:43:34  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:37  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test120134.client
+2016-03-29 17:43:37  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:43:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:38  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:43:38  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:39  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:43:39  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:40  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test1.client
+2016-03-29 17:43:40  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:40  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test122655.client
+2016-03-29 17:43:40  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:41  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test166112.client
+2016-03-29 17:43:41  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:46  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:46  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:47  [ DEBUG ]  [ method:com.u51.CDSpace.model.NodeItem.toString(NodeItem.java:33) ]  set tree name ./project/TestProject
+2016-03-29 17:43:47  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:43:47  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:51  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/New HttpClient.client
+2016-03-29 17:43:51  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
+2016-03-29 17:43:52  [ DEBUG ]  [ method:com.u51.CDSpace.view.BorderCenterView.setContent(BorderCenterView.java:76) ]  selected treeItem file path is ./project/TestProject/test.server
+2016-03-29 17:43:52  [ INFO ]  [ method:com.u51.CDSpace.view.BorderCenterView.loadTab(BorderCenterView.java:70) ]  tab's size is1
